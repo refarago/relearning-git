@@ -1,3 +1,3 @@
-function (a, b){
-	a + b;
+function menosNumeros (a, b){
+	return a - b;
 }
